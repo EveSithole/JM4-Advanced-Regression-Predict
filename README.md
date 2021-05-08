@@ -1,4 +1,4 @@
-# Prediction Of Apples Per Kilogram:
+# Price Prediction Of Apples Per Kilogram:
 What the project is about.
 How the project/application works.
 Technologies used to build the project.
